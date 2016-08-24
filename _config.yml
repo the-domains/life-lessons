@@ -1,4 +1,3 @@
-layout_spectrum: 0.1575516266748309
 typography_spectrum: 0.8469348475337029
 color:
   brandStrength: 0.07997129485011101
@@ -11,4 +10,6 @@ color:
     - '#D9E8F5'
     - '#FFFFFF'
     - '#F26101'
+layout_spectrum: 0.1575516266748309
 name: life lessons
+description: some things I have learned...
